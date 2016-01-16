@@ -1,0 +1,4 @@
+<?php
+echo "<h2>Assignments</h2>";
+echo "This page is under construction";
+?>  
